@@ -1,4 +1,4 @@
-# A pnpm monorepo
+# a pnpm monorepo demo
 
 ## 参考
 
